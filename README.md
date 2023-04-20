@@ -1,5 +1,5 @@
-# rental-app
-Simple school project
+# rental-app ---> Simple school project
+
 V jazyce Java ve vývojovém prostředí Eclipse vytvořte libovolnou smysluplnou aplikaci, 
 která bude založena na principech objektového programování. 
 V aplikaci budou definovány alespoň 4 třídy, 
